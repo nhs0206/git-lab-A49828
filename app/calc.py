@@ -6,5 +6,5 @@ def mul(a,b):
     return a*b
 def div(a,b):
     if (b == 0):
-        return ("Không chia được\n")
+        return ("Loi: chia cho 0\n")
     return a/b
